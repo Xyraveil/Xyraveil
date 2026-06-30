@@ -64,6 +64,6 @@ My contributions:
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/Xyraveil
-- Email: das_aruj@ongc.co.in
-- LinkedIn: *(add your LinkedIn once you create/update it)*
+- GitHub: [Xyraveil](https://github.com/Xyraveil)
+- Email: aanidadas@gmail.com
+- LinkedIn: [Aanid A Das](https://www.linkedin.com/in/aanid-a-das-8721992b3/)
