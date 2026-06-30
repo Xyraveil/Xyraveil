@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Aanid Das 👋
 
-<!--
-**Xyraveil/Xyraveil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electronics and Communication Engineering undergraduate at **IIT (ISM) Dhanbad** with an interest in software development, Android applications, game development, and problem solving.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 Android Development with Kotlin & Jetpack Compose
+- ☁️ Firebase & Cloud Firestore
+- 🎮 Unity Game Development
+- 💻 Data Structures & Algorithms (C++)
+- 🌱 Building projects and preparing for Software Engineering internships
+
+---
+
+## 🛠️ Technologies
+
+**Languages**
+- Kotlin
+- C++
+- C#
+- Python
+
+**Tools**
+- Android Studio
+- Unity
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 📱 SubShare
+An Android application for creating, sharing, and discovering Subway sandwich recipes.
+
+**Tech Stack**
+- Kotlin
+- Jetpack Compose
+- Firebase Authentication
+- Cloud Firestore
+- Cloudinary
+
+---
+
+### 🎮 The Last Shade
+A 2D pixel-art action platformer developed for the **Inter IIT Tech Meet Game Development Competition**, where our team represented IIT (ISM) Dhanbad and secured **12th place**.
+
+My contributions:
+- Level Design
+- UI Programming
+- Trap Mechanics
+- Post-processing & Lighting
+
+---
+
+## 📈 Currently Learning
+
+- Android Architecture
+- System Design Fundamentals
+- Competitive Programming
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/Xyraveil
+- Email: das_aruj@ongc.co.in
+- LinkedIn: *(add your LinkedIn once you create/update it)*
